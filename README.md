@@ -1,11 +1,18 @@
 # Machine Learning & Deep Learning Portfolio
 
-A record of my progress in machine learning and deep learning, starting with coursework from UCSB CS 190I (Winter 2023).
+A growing collection of experiments in computer vision and deep learning: the models, implementation choices, results, and lessons behind each project.
 
-Each project documents the problem, the implementation, the evidence available for its results, and opportunities for further work. Historical coursework and later revisions are identified separately.
+## Projects
 
-| Project | Focus | Current record |
+| Project | Approach | Result / status |
 | --- | --- | --- |
-| [01 · CelebA Smile Classification](projects/01-celeba-smile-classification/) | PyTorch, image preprocessing, convolutional networks, training and validation | Approximately 92% Kaggle score (recalled); original notebook archived |
+| [Smile Classification with CelebA](projects/01-celeba-smile-classification/) | A compact convolutional network in PyTorch; image preprocessing, training, validation, and batch inference | Historical Kaggle score: approximately **92%** (recalled). A corrected command-line implementation is included; full training has not been rerun. |
 
-This portfolio is being assembled retrospectively. Project order reflects the course sequence, not newly completed experiments.
+## What you can explore
+
+- Model implementations with explanations of the design choices.
+- Commands for preparing experiments and generating predictions.
+- Original notebooks preserved alongside later improvements.
+- Results with a clear distinction between historical records and newly measured experiments.
+
+Start with the [smile classification project](projects/01-celeba-smile-classification/). Large datasets and trained weights are kept outside this repository.

@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you reference this work, please cite this repository and the relevant project."
+title: "Machine Learning & Deep Learning Portfolio"
+type: software
+authors:
+  - name: "WZ-0914"
+repository-code: "https://github.com/WZ-0914/ml-dl-portfolio"
+url: "https://github.com/WZ-0914/ml-dl-portfolio"
+abstract: "Computer vision and deep learning experiments, beginning with a PyTorch smile classifier for CelebA. Historical experiments and later implementation revisions are documented separately."
+keywords:
+  - computer vision
+  - deep learning
+  - PyTorch
+  - CelebA

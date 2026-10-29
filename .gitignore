@@ -1,0 +1,25 @@
+# Local datasets and generated model artifacts
+data/
+datasets/
+celeba-dataset/
+cs190-winter23-deep-learning-mp1/
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.zip
+submission.csv
+outputs/
+runs/
+wandb/
+
+# Python and notebook working files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
+.env
+.env.*
+kaggle.json
