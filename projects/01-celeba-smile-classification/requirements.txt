@@ -1,0 +1,5 @@
+# Target Python 3.10+. Record resolved versions for any reported experiment.
+torch>=2.6,<3
+torchvision>=0.21,<1
+numpy>=1.26,<3
+Pillow>=10,<13
